@@ -11,5 +11,7 @@ Sumber dataset : https://simpan.ugm.ac.id/s/yiDp0Voqt6LCV30
 Tim :
 
 Fikri Dwi Alpian - 120450022
+
 Anastasya Nurfitriyani Hidayat - 120450080
+
 Muhammad Nabil Azizi - 120450090
