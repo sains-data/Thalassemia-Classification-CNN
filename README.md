@@ -6,6 +6,7 @@ Catatan: Dataset, model, dan kode sumber proyek ini dapat digunakan sebagai sumb
 
 Sumber dataset : https://simpan.ugm.ac.id/s/yiDp0Voqt6LCV30
 
+## **Penerapan model tersebut sudah disimpan di branch *Deploy* silahkan buka branch *Deploy* dari repository ini !**
 
 ## Tim
 
