@@ -1,0 +1,11 @@
+{
+    "Elliptocyte": 0,
+    "Pencil ": 1,
+    "Teardrop": 2,
+    "Normal": 3,
+    "Stomatocyte": 4,
+    "Target": 5,
+    "Hyprochromic": 6,
+    "Spero": 7,
+    "Acantocyte": 8
+   }
