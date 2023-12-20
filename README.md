@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Deploy
+  cd Thalassemia-Classification-CNN
 ```
 
 Install dependencies
