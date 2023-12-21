@@ -3,6 +3,10 @@
 This project is an implementation of **Convolutional Neural Network (CNN)** in the context of red blood cell classification to distinguish thalassemia variations.
 
 It will be deployed to **Streamlit** to facilitate the use of the model to make it more interactive.
+
+### *Requirement*
+**numpy, Pillow, scikit-learn, streamlit, tensorflow**
+
 ## Run Online from Streamlit
 - Open link
 
