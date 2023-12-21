@@ -2,6 +2,11 @@
 
 Proyek ini adalah implementasi klasifikasi sel darah merah menggunakan Convolutional Neural Network (CNN) untuk membedakan sel darah merah dalam berbagai kategori talasemia. Hasil akurasi mencapai 94.75%, menunjukkan kemampuan model untuk mengenali dan mengklasifikasikan sel darah merah dengan sangat baik.
 
+<p align="center">
+  <img src="https://github.com/sains-data/Thalassemia-Classification-CNN/assets/128737322/c2e8a65a-e2b4-4d1f-a12d-62fecb848c23" alt="Sublime's custom image"/>
+</p>
+
+
 Catatan: Dataset, model, dan kode sumber proyek ini dapat digunakan sebagai sumber daya untuk penelitian medis dan aplikasi diagnostik.
 
 Sumber dataset : https://simpan.ugm.ac.id/s/yiDp0Voqt6LCV30
